@@ -19,7 +19,7 @@ export default function Passage(props: props) {
       <div class="absolute top-0 bottom-0 -left-9">
         <Index each={paragraphs()}>
           {(paragraph, i) => (
-            <p class="text-gray-600">
+            <p class="text-gray-500">
               <Index each={paragraph()}>
                 {(line, i) => {
                   counter++;

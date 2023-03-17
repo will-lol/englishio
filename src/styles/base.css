@@ -2,6 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
+@page {
+    size: auto;
+    margin: 25mm 25mm 25mm 25mm;
+}
+
 @font-face {
   font-family: "EB Garamond";
   font-style: italic;
