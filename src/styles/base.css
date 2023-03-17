@@ -12,7 +12,7 @@
   font-style: italic;
   font-display: swap;
   font-weight: 400 800;
-  src: url("fonts/EBGaramond-Italic.woff2") format("woff2");
+  src: url("../../public/fonts/EBGaramond-Italic.woff2") format("woff2");
 }
 
 @font-face {
@@ -20,7 +20,7 @@
   font-style: normal;
   font-display: swap;
   font-weight: 400 800;
-  src: url("fonts/EBGaramond.woff2") format("woff2");
+  src: url("../../public/fonts/EBGaramond.woff2") format("woff2");
 }
 
 @layer utilities {
