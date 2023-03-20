@@ -3,7 +3,8 @@ import Layout from "../layouts/Layout.astro";
 import Passage from "../components/Passage";
 import Image from "../components/Image";
 import Pagebreak from "../components/Pagebreak";
-import Content from "../components/oralScript.md";
+import Script from "../components/Script.md";
+import Outline from "../components/Outline.md";
 ---
 <Layout title="English IO">
   <div contenteditable>
@@ -59,8 +60,11 @@ import Content from "../components/oralScript.md";
         </div>
       </Image>
       <Pagebreak/>
+      <h2>Oral Outline</h2>
+      <Outline/>
+      <Pagebreak/>
       <h2>Oral transcript</h2>
-      <Content/>
+      <Script/>
     </main>
   </div>
 </Layout>

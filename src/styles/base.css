@@ -44,4 +44,20 @@
     p {
         @apply mb-5 leading-loose text-justify
     }
+
+    li {
+        @apply mb-2
+    }
+
+    ul,ol {
+        @apply list-outside mx-10 mb-5
+    }
+
+    ul {
+        @apply list-disc 
+    }
+
+    ol {
+        @apply list-decimal
+    }
 }
