@@ -41,6 +41,14 @@
         @apply font-bold underline mb-2
     }
 
+    h3 {
+        @apply font-bold mb-2
+    }
+
+    h4 {
+        @apply font-bold mb-2 italic
+    }
+
     p {
         @apply mb-5 leading-loose text-justify
     }

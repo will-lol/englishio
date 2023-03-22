@@ -1,1 +1,43 @@
-- Greatest problem. Social inequality between: refugees, citizens. Field. Literary: passage taken... collection... true short stories..., theme: displacement, exile and music. Non-literary: photomontage taken..., 
+### Introduction
+- social inequality problem inspired, focusing GI:, sits within.|Literary: Ancient. Themes. VL, GI: stories. Passage, GI: structure, content|non-literary: photomontage taken... named.... G, GI: juxtaposition. Image, GI: allusions juxtaposition.
+### Zable
+#### Body of work
+- BOW: two stories, focus. Audience: globally minded middle influence. Purpose: realise effects war conflict. Both setting, talks people survived—353. ZL: emphasis husband normalities. Effect: underscore welfare. Significant: “food coffee table” “clean neat”. 
+- Contrast: “ageing well-equipped” dictated. Similarly, TAM remarks: CD, cooking, tea; writes: medicine, air food. limbo, statelessness. TAM: “worse death”, impling. ZL: diction, that UN. In emphasising: comparison: refugee, present.
+#### Passage
+- My passage presents the global issue thoroughly. 
+- Throughout “The Ancient Mariner”, Zable includes large quotes from Amal, occasionally interjecting to emphasise or otherwise provide context. This structure allows Zable to preserve the mood of his interactions with Amal in their transposition from speech to written story. 
+- In this passage, this preservation enhances the global issue by invigorating Amal’s story. And in addition, the empathetic mood in this passage allows the audience to contrast their own experience with Amal’s, furthering the global issue in a poignant way. 
+- To achieve this, Zable uses auditory imagery and musical diction through lines 1 to 13. Zable compares Amal to Umm Khultum, an Arab singer who composes extended songs that tell stories. Zable describes Amal’s recounting as an “incantation”, an interesting use of diction that positions Amal’s telling as spiritual or religious (by the connotation) but also infectious (by the denotation). 
+- Zable’s use of “*tarab*” on line 11, a word used specifically for Arabic music to mean, according to the Michigan Daily, “enchantment”. 
+- Ultimately, the effect of this musical diction and comparison to Umm Khultum, is for Zable to share his deep investment in Amal’s story with the audience, allowing them to empathise with it. 
+- The representation of the global issue continues as the passage shifts to Amal’s words. 
+- In her opening line, line 15, Amal addresses Zable and the reader as ‘My brother’. In doing so, Amal establishes the reader as a brother, which in Islam is less a familial relation than an indication of trust and respect. The effect of this is to further that empathetic mood. 
+- In a use of anaphora on lines 19 to 21, Amal repeats ‘they said’ at the beginning of clauses. The effect of this is to emphasise her final sentence, “They said that Australia is a democratic country”. 
+- This sentence strongly emphasises the global issue, in that reasons for seeking asylum often stem from corruption or authoritarian rule. In the following paragraph, Amal speaks about her ‘dreams’ of Australia. The content of this paragraph clearly displays the global issue, in that she dreams to be Australian because Australian’s enjoy greater welfare than she did as an asylum seeker. 
+- My passage presents the global issue through its content, especially within Amal’s quotes which are enhanced by Zable’s interjection.
+### Gallenkuş’
+#### Body of work
+- Uǧur Gallenkuş’ *Parallel Universes of Children*, his book of juxtaposing photomontages from which my photo comes from, explores the global issue.
+- Gallenkuş is a Turkish photomontage creator focusing mainly upon the theme of global inequality and especially refugees. Many of his works feature photos from countries that surround his own, Turkey, in the Greater Middle East. 
+- In an interview, Gallenkuş revealed his purpose to be to create change by making “people empathise with problems in the world”. Gallenkuş’ audience may be people, especially in Turkey and the Greater Middle East with the power to make change. 
+- The title, *Parallel Universes of Children* is a metaphor that describes the inequalities and two-way perceived inaccessibilities between Global North and Global South, in which Greater Middle Eastern states are over-represented. The foregrounding of children, a vulnerable and protected group in the eyes of society, in the title and more broadly has the effect of enhancing the global issue by providing an element of shock to the audience. 
+- Gallenkuş’ ‘slicing’ of two images together, often with a single part of the image that is continued through the slice allows the audience to compare two contexts as if they were comparing colours of cars or clothing. In his artworks, where the difference between images is not paint but social status, he highlights a stark inequality, and thus the global issue. 
+- This technique is seen in ‘I See You’, a photomontage featuring a stock photo of a crying Burmese girl in a refugee camp, juxtaposed with a stock photo of a girl. In addition to the slice and lining up of faces in the image, the global issue is accentuated by the eye-level framing and staring of the children.  
+- ‘Wounded Girl with a Pearl Earring...’ is another artwork featured in the book. The montage is of two images, a wounded Syrian girl receiving treatment at a temporary hospital amidst conflict juxtaposed with a photo of the famous ‘Girl with a Pearl Earring’ painting. 
+- Similar to ‘I See You’, the photos are sliced together on a hard line and faces are lined up. There is equal space given to each image, which may subvert the audience’s societal expectation that the painting is of higher importance, highlighting a global inequality. 
+- Gallenkuş successfully conveys the global issue through his foregrounding of children and juxtaposing imagery. 
+#### Artwork
+- ‘Salvation’ represents the global issue through allusion and juxtaposition. 
+- In ‘Salvation...’, as with all the artworks in *Parallel Universes of Children*, Gallenkuş provides contextual detail for the photojournalistic image. In this case, a “child with Dengue fever is holding the doctor’s hand in Jalozai, Pakistan”, a notorious Afghan refugee camp. 
+- This image is juxtaposed with ‘The Creation of Adam’, a famous artwork from the Sistine Chapel. ‘The Creation of Adam’ is cropped so only God’s face and arm is seen. In this image, Jehovah may be included to be symbolic of Western states, since Christianity is the traditional religion of the Western world. 
+- This artwork produced by Gallenkuş strongly highlights the global issue, social inequality between refugees and citizens of developed states. 
+- Despite being far from the centre of the image, God’s image is very bright in contrast to the rest of the image, making it salient. In addition, God’s image is relatively high in detail. The effect of this is to highlight an inequality between God and the refugee child. 
+- Also, the image of the refugee child has a dark vignette, a visual technique that connotes a dingy environment and in this case, impoverishment. This furthers the inequality between the child and God represented in the image. 
+- The hands of the refugee and God are touching as in ‘The Creation of Adam’, where God is gifting life to Adam. In ‘Salvation...’, where God is Western states and Adam is a refugee, Gallenkuş may be making a comment on the immense wealth inequailties that exist inter and intra state and how only those in wealthy, Western states are able to provide salvation, acting as a godlike figure. In relation to the global issue, the connection is clear, in that this immense wealth divide correlates, in capitalism, with an immense social inequality. 
+- An interplay exists between the Christian imagery used in the composition and the title, where ‘salvation’ is a Christian concept, and is what is granted to Adam by God in ‘The Creation of Adam’. The effect of this interplay is to stress the global issue. 
+- Through allusion and juxtaposition, Gallenkuş  successfully conveys the global issue in ‘Savlation’.
+### Conclusion
+- In conclusion, both works portray the global issue, social inequality between Greater Middle Eastern refugees and citizens of developed states. 
+- *The Ancient Mariner*, a short story with the purpose to help the audience realise the effects of war and conflict. And *Parallel Universes of Children*  has the purpose to help “people empathise with problems in the world” in order to foster change. 
+- Both of these texts comment strongly upon the global issue and its manifestations in the real world. Overall, it is important that all people in the world have equal access to resources to progress humanity as a whole.
