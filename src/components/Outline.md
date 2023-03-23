@@ -1,21 +1,60 @@
 ### Introduction
 - social inequality problem inspired, focusing GI:, sits within.|Literary: Ancient. Themes. VL, GI: stories. Passage, GI: structure, content|non-literary: photomontage taken... named.... G, GI: juxtaposition. Image, GI: allusions juxtaposition.
+
+Global social inequality is one of the greatest problems of our time and it inspired my oral, which is focusing upon the global issue of “social inequality between Greater Middle Eastern refugees and citizens of developed states” that sits within the field of enquiry, “Politics, Power and Justice”. 
+
+My literary text is a passage taken from the short story, ‘The Ancient Mariner’ from Arnold Zable’s collection of true short stories, *Violin Lessons* that focuses upon themes, according to Zable, of displacement, exile and music. In *Violin Lessons*, the global issue is explored through the stories of people Zable has spoken to. In my passage, the global issue is explored especially through structure and content. 
+
+My non-literary text is a photomontage taken from Uğur Gallenkuş’ *Parallel Universes of Children* named ‘Salvation...’. Gallenkuş explores the global issue through his heavy use of juxtaposition. In my image, the global issue is explored through Gallenkuş’ allusions and stark juxtaposition.
 ### Zable
 #### Body of work
 - BOW: two stories, focus. Audience: globally minded middle influence. Purpose: realise effects war conflict. Both setting, talks people survived—353. ZL: emphasis husband normalities. Effect: underscore welfare. Significant: “food coffee table” “clean neat”. 
 - Contrast: “ageing well-equipped” dictated. Similarly, TAM remarks: CD, cooking, tea; writes: medicine, air food. limbo, statelessness. TAM: “worse death”, impling. ZL: diction, that UN. In emphasising: comparison: refugee, present.
+
+In his greater body of work, Arnold Zable has written two short stories with a specific focus on the global issue. 
+
+The first, in which my passage lies, is “The Ancient Mariner” from the collection *Violin Lessons* and the second is “Zahra’s Lullaby” from *A Country Too Far*. The audiences for both stories are globally-minded middle to upper-class voting Australians who possess the ability to influence change. The purpose of Zable’s texts therefore may be to help the audience to realise the effects of war and conflict. Both “The Ancient Mariner” and “Zahra’s Lullaby” are stories set in modern-day Australia where Zable talks to people whom survived SIEV X, a boat carrying 400 asylum seekers that capsized and killed 353 people in their seeking of asylum from the Greater Middle East to Australia. 
+
+In “Zahra’s Lullaby”, Zable heavily emphasises husband and wife and survivors of SIEV X, Faris and Majida’s apartment and its normalities. The effect of this is to underscore the difference in their welfare since being accepted into Australia, and thus further the global issue. Significant to this is the inclusion of details such as “Whenever I visit there is food on the coffee table” or that the “flat is clean and neat”. This is in contrast to “the ageing fishing vessel [that] bore no resemblance to [a spacious, well-equipped boat]” that dictated the demise of many refugees. 
+
+Similarly, “The Ancient Mariner” also explores this contrast for Amal Basry, where in her apartment, Zable remarks on a “CD of Umm Khultum”, “her cooking” and “cardamon tea”. In Amal’s refugee state, however, Zable writes: “There was no food and no medicine”, and her “food is ‘air food’, like nothing”. 
+
+Themes of *limbo* or *statelessness*, especially concerning refugees, are heavily explored in both “Zahra’s Lullaby” and “The Ancient Mariner”. In “The Ancient Mariner”, Zable likens “limbo” to a “state worse than death” while simultaneously implying that refugees exist in this state. “Statelessness” is diction that is repeated throughout “Zahra’s Lullaby” that, being used by the United Nations, is a term with official and legal connotations. In emphasising “limbo” and “statelessness”, Zable draws a comparison between the social state of Amal, Faris and Majida whilst they were refugees and their and the audience's present state.
 #### Passage
-- My passage presents the global issue thoroughly. 
-- Throughout “The Ancient Mariner”, Zable includes large quotes from Amal, occasionally interjecting to emphasise or otherwise provide context. This structure allows Zable to preserve the mood of his interactions with Amal in their transposition from speech to written story. 
-- In this passage, this preservation enhances the global issue by invigorating Amal’s story. And in addition, the empathetic mood in this passage allows the audience to contrast their own experience with Amal’s, furthering the global issue in a poignant way. 
-- To achieve this, Zable uses auditory imagery and musical diction through lines 1 to 13. Zable compares Amal to Umm Khultum, an Arab singer who composes extended songs that tell stories. Zable describes Amal’s recounting as an “incantation”, an interesting use of diction that positions Amal’s telling as spiritual or religious (by the connotation) but also infectious (by the denotation). 
-- Zable’s use of “*tarab*” on line 11, a word used specifically for Arabic music to mean, according to the Michigan Daily, “enchantment”. 
-- Ultimately, the effect of this musical diction and comparison to Umm Khultum, is for Zable to share his deep investment in Amal’s story with the audience, allowing them to empathise with it. 
-- The representation of the global issue continues as the passage shifts to Amal’s words. 
-- In her opening line, line 15, Amal addresses Zable and the reader as ‘My brother’. In doing so, Amal establishes the reader as a brother, which in Islam is less a familial relation than an indication of trust and respect. The effect of this is to further that empathetic mood. 
-- In a use of anaphora on lines 19 to 21, Amal repeats ‘they said’ at the beginning of clauses. The effect of this is to emphasise her final sentence, “They said that Australia is a democratic country”. 
-- This sentence strongly emphasises the global issue, in that reasons for seeking asylum often stem from corruption or authoritarian rule. In the following paragraph, Amal speaks about her ‘dreams’ of Australia. The content of this paragraph clearly displays the global issue, in that she dreams to be Australian because Australian’s enjoy greater welfare than she did as an asylum seeker. 
-- My passage presents the global issue through its content, especially within Amal’s quotes which are enhanced by Zable’s interjection.
+- Passage, GI.  
+- Large quotes, emphasise context. Structure, mood preserved, speech→written.
+- preservation GI: invigorating. Addition, empathetic: audience contrast Amal, GI.
+- Achieve: auditory, diction: 1→13. Compare Amal, Khultum; composes stories. "incantation": describes spiritual, religious; infectious. 
+- "tarab", 11, "enchantment"
+- Effect: tone, investment, allowing empathise.
+- GI continue→Amal
+- Opening, 15, 'brother'. Establishes. Islam familial relation, trust and respect. Effect: mood.
+- Anaphora 19→21, ‘they said’. Effect: emphasise final: “Australia democratic”.
+- Emphasise GI: asylum: corruption, authoritarian.
+- Paragraph, ‘dreams’. Clearly GI: dreams: greater welfare, seeker.
+- Passage GI: content, quotes enhanced interjection.
+
+My passage presents the global issue thoroughly. 
+
+Throughout “The Ancient Mariner”, Zable includes large quotes from Amal, occasionally interjecting to emphasise or otherwise provide context. This structure allows Zable to preserve the mood of his interactions with Amal in their transposition from speech to written story. 
+
+In this passage, this preservation enhances the global issue by invigorating Amal’s story. And in addition, the empathetic mood in this passage allows the audience to contrast their own experience with Amal’s, furthering the global issue in a poignant way. 
+
+To achieve this, Zable uses auditory imagery and musical diction through lines 1 to 13. Zable compares Amal to Umm Khultum, an Arab singer who composes extended songs that tell stories. Zable describes Amal’s recounting as an “incantation”, an interesting use of diction that positions Amal’s telling as spiritual or religious (by the connotation) but also infectious (by the denotation). 
+
+Zable’s use of “*tarab*” on line 11, a word used specifically for Arabic music to mean, according to the Michigan Daily, “enchantment”. 
+
+Ultimately, the effect of this musical diction and comparison to Umm Khultum, is for Zable to share his deep investment in Amal’s story with the audience, allowing them to empathise with it. 
+
+The representation of the global issue continues as the passage shifts to Amal’s words. 
+
+In her opening line, line 15, Amal addresses Zable and the reader as ‘My brother’. In doing so, Amal establishes the reader as a brother, which in Islam is less a familial relation than an indication of trust and respect. The effect of this is to further that empathetic mood. 
+
+In a use of anaphora on lines 19 to 21, Amal repeats ‘they said’ at the beginning of clauses. The effect of this is to emphasise her final sentence, “They said that Australia is a democratic country”. 
+
+This sentence strongly emphasises the global issue, in that reasons for seeking asylum often stem from corruption or authoritarian rule. In the following paragraph, Amal speaks about her ‘dreams’ of Australia. The content of this paragraph clearly displays the global issue, in that she dreams to be Australian because Australian’s enjoy greater welfare than she did as an asylum seeker. 
+
+My passage presents the global issue through its content, especially within Amal’s quotes which are enhanced by Zable’s interjection.
 ### Gallenkuş’
 #### Body of work
 - Uǧur Gallenkuş’ *Parallel Universes of Children*, his book of juxtaposing photomontages from which my photo comes from, explores the global issue.
