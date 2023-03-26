@@ -1,5 +1,5 @@
 ### Introduction
-- social inequality problem inspired, focusing GI:, sits within.|Literary: Ancient. Themes. VL, GI: stories. Passage, GI: structure, content|non-literary: photomontage taken... named.... G, GI: juxtaposition. Image, GI: allusions juxtaposition.
+- **social** inequality, focusing GI:, FOI.|Lit: TAM. Themes. VL, GI: stories. Passage, GI: structure, content|!Lit: photomontage taken… named… G, GI: juxtaposition. Image, GI: allusions juxtaposition.
 
 Global social inequality is one of the greatest problems of our time and it inspired my oral, which is focusing upon the global issue of “social inequality between Greater Middle Eastern refugees and citizens of developed states” that sits within the field of enquiry, “Politics, Power and Justice”. 
 
@@ -8,8 +8,8 @@ My literary text is a passage taken from the short story, ‘The Ancient Mariner
 My non-literary text is a photomontage taken from Uğur Gallenkuş’ *Parallel Universes of Children* named ‘Salvation...’. Gallenkuş explores the global issue through his heavy use of juxtaposition. In my image, the global issue is explored through Gallenkuş’ allusions and stark juxtaposition.
 ### Zable
 #### Body of work
-- BOW: two stories, focus. Audience: globally minded middle influence. Purpose: realise effects war conflict. Both setting, talks people survived—353. ZL: emphasis husband normalities. Effect: underscore welfare. Significant: “food coffee table” “clean neat”. 
-- Contrast: “ageing well-equipped” dictated. Similarly, TAM remarks: CD, cooking, tea; writes: medicine, air food. limbo, statelessness. TAM: “worse death”, impling. ZL: diction, that UN. In emphasising: comparison: refugee, present.
+- **BOW**: 2 stories. Aud: globally minded middle influence. Prpse: realise effects war conflict. Sttng, talks 🧑‍🤝‍🧑 survived—353. ZL: ⬆️husband normalities. 🫧: underscore welfare. Sgnif: “food coffee table” “clean neat”.
+- ☯️: “ageing well-equipped” dictated. Similarly, TAM remarks: CD, cooking, tea; writes: medicine, air food. limbo, statelessness. TAM: “worse death”, implying. ZL: diction, that UN. In ⬆️: ☯️: refugee, present.
 
 In his greater body of work, Arnold Zable has written two short stories with a specific focus on the global issue. 
 
@@ -21,18 +21,8 @@ Similarly, “The Ancient Mariner” also explores this contrast for Amal Basry,
 
 Themes of *limbo* or *statelessness*, especially concerning refugees, are heavily explored in both “Zahra’s Lullaby” and “The Ancient Mariner”. In “The Ancient Mariner”, Zable likens “limbo” to a “state worse than death” while simultaneously implying that refugees exist in this state. “Statelessness” is diction that is repeated throughout “Zahra’s Lullaby” that, being used by the United Nations, is a term with official and legal connotations. In emphasising “limbo” and “statelessness”, Zable draws a comparison between the social state of Amal, Faris and Majida whilst they were refugees and their and the audience's present state.
 #### Passage
-- Passage, GI.  
-- Large quotes, emphasise context. Structure, preserve tone mood, speech→written.
-- preservation GI: invigorating. +, empathetic: audience contrast Amal, GI.
-- Achieve: auditory, diction: 1→13. Compare Amal, Khultum; composes stories. "incantation": spiritual, religious (connotation); infectious. 
-- "tarab", 11, "enchantment"
-- Effect: tone, investment, allowing empathise.
-- GI continue→Amal
-- Opening, 15, 'brother'. Establishes. Islam familial relation, trust and respect. Effect: mood.
-- Anaphora 19→21, ‘they said’. Effect: emphasise final: “Australia democratic”.
-- Emphasise GI: asylum: corruption, authoritarian.
-- Paragraph, ‘dreams’. Clearly GI: dreams: greater welfare, seeker.
-- Passage GI: content, quotes enhanced interjection.
+- **Passage**, GI.| Large quotes. Structure, preserve tone mood, speech→written.| preservation ⬆️GI: invigorating. +, empathetic: audience ☯️Amal, GI.| Achieve: auditory, diction: 1→13. Amal, Khultum. “incantation” describes.| “tarab”, 11, “enchantment”| 🫧: tone, investment, allowing empathise.
+- GI continue→Amal|Opening, 15, ‘brother’. Establishes. familial relation; trust, respect. 🫧: mood.| Anaphora 19→21, ‘they said’. 🫧: ⬆️final: “Australia democratic”.| ⬆️GI: corruption, authoritarian.| Paragraph, ‘dreams’. Clearly GI: dreams: greater welfare, seeker.| Passage GI: content, quotes ⬆️interjection. 
 
 My passage presents the global issue thoroughly. 
 
@@ -57,15 +47,8 @@ This sentence strongly emphasises the global issue, in that reasons for seeking 
 My passage presents the global issue through its content, especially within Amal’s quotes which are enhanced by Zable’s interjection.
 ### Gallenkuş’
 #### Body of work
-- *Universes*, GI: juxtaposing photomontages, theme: inequality
-- Works: juxtaposes. 
-- Interview: purpose: empathise. Audience:.
-- Title metaphor: inequal, perceived. Children, vulnerable effect: GI shock.
-- 'slicing', with, allows car. In where difference !paint Λ status, thus
-- is seen 'ISY': girl Burmese camp, w/ girl. + slice, continuation, GI: eye-level.
-- 'WGPE'. Wounded Syrian amidst w/ 'GPE'.
-- Similar, sliced, lined. Equal space→subvert, highlight.
-- Successfully: children, juxtaposing
+- **Universes**, GI: juxtaposing photomontages, theme: inequality|Works: juxtaposes.|Interview: purpose: empathise. Audience:.|Title metaphor: inequal, perceived. Children, vulnerable 🫧: GI shock.|‘slicing’, with, allows car. 
+- In where difference !paint Λ status, thus|is seen ‘ISY’: girl Burmese camp, w/ girl. + slice, continuation, GI: eye-level.|‘WGPE’. Wounded Syrian amidst w/ ‘GPE’.|Similar, sliced, lined. Equal space→subvert, highlight.|Successfully: children, juxtaposing
 
 In Parallel Universes of Children by Uǧur Gallenkuş’, Gallenkuş' explores the global issue through his juxtaposing photomontages. 
 
@@ -85,15 +68,8 @@ Similar to ‘I See You’, the photos are sliced together on a hard line and fa
 
 Gallenkuş successfully conveys the global issue through his foregrounding of children and juxtaposing imagery.
 #### Artwork
-- 'Salvation' GI: allusion juxtaposition.
-- contextual detail. "Dengue fever holding Jalozai"
-- w/, Sistine. Cropped. Jehovah symbolic, Christianity.
-- Highlights GI. 
-- Bright in contrast, salient. + detail. Effect: inequality.
-- + dark vignette, connotes dingy, impoverishment. Effect: inequality
-- Hands touching, as in. In ’S’ were, comment wealth, able provide salvation, acting. GI: correlates. 
-- Interplay, ‘salvation’ is, granted. Effect: stress GI.
-- Success.
+- **‘Salvation’** GI: allusion juxtaposition.|contextual detail. “Dengue fever holding Jalozai”|w/, Sistine. Cropped. Jehovah symbolic, Christianity.|Highlights GI.|Bright ☯️, salient. + detail. 🫧: inequality.
+- +dark vignette, connotes dingy, impoverishment. 🫧: inequality|Hands touching, as in. In ’S’ were, comment wealth, able provide salvation, acting. GI: correlates.|Interplay, ‘salvation’ is, granted. 🫧: stress GI.|Success.
 
 ‘Salvation’ represents the global issue through allusion and juxtaposition.
 
@@ -113,9 +89,7 @@ An interplay exists between the Christian imagery used in the composition and th
 
 Through allusion and juxtaposition, Gallenkuş successfully conveys the global issue in ‘Savlation’.
 ### Conclusion
-- Both works, restate GI
-- Restate purposes
-- Both, strongly GI & manifestations. Important: equal access… to progress
+- **Both** works, restate GI|Restate purposes|Both, strongly GI & manifestations. Important: equal access… to progress
 
 In conclusion, both works portray the global issue, social inequality between Greater Middle Eastern refugees and citizens of developed states.
 
