@@ -23,7 +23,7 @@ Themes of *limbo* or *statelessness*, especially concerning refugees, are heavil
 #### Passage
 - Passage, GI.  
 - Large quotes, emphasise context. Structure, preserve tone mood, speech→written.
-- preservation GI: invigorating. Addition, empathetic: audience contrast Amal, GI.
+- preservation GI: invigorating. +, empathetic: audience contrast Amal, GI.
 - Achieve: auditory, diction: 1→13. Compare Amal, Khultum; composes stories. "incantation": spiritual, religious (connotation); infectious. 
 - "tarab", 11, "enchantment"
 - Effect: tone, investment, allowing empathise.
@@ -57,21 +57,19 @@ This sentence strongly emphasises the global issue, in that reasons for seeking 
 My passage presents the global issue through its content, especially within Amal’s quotes which are enhanced by Zable’s interjection.
 ### Gallenkuş’
 #### Body of work
-- *Universes*, juxtaposing photomontages GI. 
-- Turkish creator, theme: inequality. Works: surround. 
+- *Universes*, GI: juxtaposing photomontages, theme: inequality
+- Works: juxtaposes. 
 - Interview: purpose: empathise. Audience:.
-- Title metaphor: inequal, perceived.
-- In an interview, Gallenkuş revealed his purpose to be to create change by making “people empathise with problems in the world”. Gallenkuş’ audience may be people, especially in Turkey and the Greater Middle East with the power to make change. 
-- The title, *Parallel Universes of Children* is a metaphor that describes the inequalities and two-way perceived inaccessibilities between Global North and Global South, in which Greater Middle Eastern states are over-represented. The foregrounding of children, a vulnerable and protected group in the eyes of society, in the title and more broadly has the effect of enhancing the global issue by providing an element of shock to the audience. 
-- Gallenkuş’ ‘slicing’ of two images together, often with a single part of the image that is continued through the slice allows the audience to compare two contexts as if they were comparing colours of cars or clothing. In his artworks, where the difference between images is not paint but social status, he highlights a stark inequality, and thus the global issue. 
-- This technique is seen in ‘I See You’, a photomontage featuring a stock photo of a crying Burmese girl in a refugee camp, juxtaposed with a stock photo of a girl. In addition to the slice and lining up of faces in the image, the global issue is accentuated by the eye-level framing and staring of the children.  
-- ‘Wounded Girl with a Pearl Earring...’ is another artwork featured in the book. The montage is of two images, a wounded Syrian girl receiving treatment at a temporary hospital amidst conflict juxtaposed with a photo of the famous ‘Girl with a Pearl Earring’ painting. 
-- Similar to ‘I See You’, the photos are sliced together on a hard line and faces are lined up. There is equal space given to each image, which may subvert the audience’s societal expectation that the painting is of higher importance, highlighting a global inequality. 
-- Gallenkuş successfully conveys the global issue through his foregrounding of children and juxtaposing imagery. 
+- Title metaphor: inequal, perceived. Children, vulnerable effect: GI shock.
+- 'slicing', with, allows car. In where difference !paint Λ status, thus
+- is seen 'ISY': girl Burmese camp, w/ girl. + slice, continuation, GI: eye-level.
+- 'WGPE'. Wounded Syrian amidst w/ 'GPE'.
+- Similar, sliced, lined. Equal space→subvert, highlight.
+- Successfully: children, juxtaposing
 
-Uǧur Gallenkuş’ Parallel Universes of Children, his book of juxtaposing photomontages from which my photo comes from, explores the global issue.
+In Parallel Universes of Children by Uǧur Gallenkuş’, Gallenkuş' explores the global issue through his juxtaposing photomontages. 
 
-Gallenkuş is a Turkish photomontage creator focusing mainly upon the theme of global inequality and especially refugees. Many of his works feature photos from countries that surround his own, Turkey, in the Greater Middle East.
+Gallenkuş is a Turkish photomontage creator focusing mainly upon the theme of global inequality and especially refugees. In the works of *Parallel Universes of Children*, Gallenkuş juxtaposes photojournalistic images, from the Greater Middle East Region, where he lives with Western imagery.
 
 In an interview, Gallenkuş revealed his purpose to be to create change by making “people empathise with problems in the world”. Gallenkuş’ audience may be people, especially in Turkey and the Greater Middle East with the power to make change.
 
@@ -87,16 +85,40 @@ Similar to ‘I See You’, the photos are sliced together on a hard line and fa
 
 Gallenkuş successfully conveys the global issue through his foregrounding of children and juxtaposing imagery.
 #### Artwork
-- ‘Salvation’ represents the global issue through allusion and juxtaposition. 
-- In ‘Salvation...’, as with all the artworks in *Parallel Universes of Children*, Gallenkuş provides contextual detail for the photojournalistic image. In this case, a “child with Dengue fever is holding the doctor’s hand in Jalozai, Pakistan”, a notorious Afghan refugee camp. 
-- This image is juxtaposed with ‘The Creation of Adam’, a famous artwork from the Sistine Chapel. ‘The Creation of Adam’ is cropped so only God’s face and arm is seen. In this image, Jehovah may be included to be symbolic of Western states, since Christianity is the traditional religion of the Western world. 
-- This artwork produced by Gallenkuş strongly highlights the global issue, social inequality between refugees and citizens of developed states. 
-- Despite being far from the centre of the image, God’s image is very bright in contrast to the rest of the image, making it salient. In addition, God’s image is relatively high in detail. The effect of this is to highlight an inequality between God and the refugee child. 
-- Also, the image of the refugee child has a dark vignette, a visual technique that connotes a dingy environment and in this case, impoverishment. This furthers the inequality between the child and God represented in the image. 
-- The hands of the refugee and God are touching as in ‘The Creation of Adam’, where God is gifting life to Adam. In ‘Salvation...’, where God is Western states and Adam is a refugee, Gallenkuş may be making a comment on the immense wealth inequailties that exist inter and intra state and how only those in wealthy, Western states are able to provide salvation, acting as a godlike figure. In relation to the global issue, the connection is clear, in that this immense wealth divide correlates, in capitalism, with an immense social inequality. 
-- An interplay exists between the Christian imagery used in the composition and the title, where ‘salvation’ is a Christian concept, and is what is granted to Adam by God in ‘The Creation of Adam’. The effect of this interplay is to stress the global issue. 
-- Through allusion and juxtaposition, Gallenkuş  successfully conveys the global issue in ‘Savlation’.
+- 'Salvation' GI: allusion juxtaposition.
+- contextual detail. "Dengue fever holding Jalozai"
+- w/, Sistine. Cropped. Jehovah symbolic, Christianity.
+- Highlights GI. 
+- Bright in contrast, salient. + detail. Effect: inequality.
+- + dark vignette, connotes dingy, impoverishment. Effect: inequality
+- Hands touching, as in. In ’S’ were, comment wealth, able provide salvation, acting. GI: correlates. 
+- Interplay, ‘salvation’ is, granted. Effect: stress GI.
+- Success.
+
+‘Salvation’ represents the global issue through allusion and juxtaposition.
+
+In ‘Salvation…’, as with all the artworks in Parallel Universes of Children, Gallenkuş provides contextual detail for the photojournalistic image. In this case, a “child with Dengue fever is holding the doctor’s hand in Jalozai, Pakistan”, a notorious Afghan refugee camp.
+
+This image is juxtaposed with ‘The Creation of Adam’, a famous artwork from the Sistine Chapel. ‘The Creation of Adam’ is cropped so only God’s face and arm is seen. In this image, Jehovah may be included to be symbolic of Western states, since Christianity is the traditional religion of the Western world.
+
+This artwork produced by Gallenkuş strongly highlights the global issue, social inequality between refugees and citizens of developed states.
+
+Despite being far from the centre of the image, God’s image is very bright in contrast to the rest of the image, making it salient. In addition, God’s image is relatively high in detail. The effect of this is to highlight an inequality between God and the refugee child.
+
+Also, the image of the refugee child has a dark vignette, a visual technique that connotes a dingy environment and in this case, impoverishment. This furthers the inequality between the child and God represented in the image.
+
+The hands of the refugee and God are touching as in ‘The Creation of Adam’, where God is gifting life to Adam. In ‘Salvation…’, where God is Western states and Adam is a refugee, Gallenkuş may be making a comment on the immense wealth inequailties that exist inter and intra state and how only those in wealthy, Western states are able to provide salvation, acting as a godlike figure. In relation to the global issue, the connection is clear, in that this immense wealth divide correlates, in capitalism, with an immense social inequality.
+
+An interplay exists between the Christian imagery used in the composition and the title, where ‘salvation’ is a Christian concept, and is what is granted to Adam by God in ‘The Creation of Adam’. The effect of this interplay is to stress the global issue.
+
+Through allusion and juxtaposition, Gallenkuş successfully conveys the global issue in ‘Savlation’.
 ### Conclusion
-- In conclusion, both works portray the global issue, social inequality between Greater Middle Eastern refugees and citizens of developed states. 
-- *The Ancient Mariner*, a short story with the purpose to help the audience realise the effects of war and conflict. And *Parallel Universes of Children*  has the purpose to help “people empathise with problems in the world” in order to foster change. 
-- Both of these texts comment strongly upon the global issue and its manifestations in the real world. Overall, it is important that all people in the world have equal access to resources to progress humanity as a whole.
+- Both works, restate GI
+- Restate purposes
+- Both, strongly GI & manifestations. Important: equal access… to progress
+
+In conclusion, both works portray the global issue, social inequality between Greater Middle Eastern refugees and citizens of developed states.
+
+The Ancient Mariner, a short story with the purpose to help the audience realise the effects of war and conflict. And Parallel Universes of Children has the purpose to help “people empathise with problems in the world” in order to foster change.
+
+Both of these texts comment strongly upon the global issue and its manifestations in the real world. Overall, it is important that all people in the world have equal access to resources to progress humanity as a whole.
