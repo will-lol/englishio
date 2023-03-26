@@ -22,9 +22,9 @@ Similarly, “The Ancient Mariner” also explores this contrast for Amal Basry,
 Themes of *limbo* or *statelessness*, especially concerning refugees, are heavily explored in both “Zahra’s Lullaby” and “The Ancient Mariner”. In “The Ancient Mariner”, Zable likens “limbo” to a “state worse than death” while simultaneously implying that refugees exist in this state. “Statelessness” is diction that is repeated throughout “Zahra’s Lullaby” that, being used by the United Nations, is a term with official and legal connotations. In emphasising “limbo” and “statelessness”, Zable draws a comparison between the social state of Amal, Faris and Majida whilst they were refugees and their and the audience's present state.
 #### Passage
 - Passage, GI.  
-- Large quotes, emphasise context. Structure, mood preserved, speech→written.
+- Large quotes, emphasise context. Structure, preserve tone mood, speech→written.
 - preservation GI: invigorating. Addition, empathetic: audience contrast Amal, GI.
-- Achieve: auditory, diction: 1→13. Compare Amal, Khultum; composes stories. "incantation": describes spiritual, religious; infectious. 
+- Achieve: auditory, diction: 1→13. Compare Amal, Khultum; composes stories. "incantation": spiritual, religious (connotation); infectious. 
 - "tarab", 11, "enchantment"
 - Effect: tone, investment, allowing empathise.
 - GI continue→Amal
@@ -36,7 +36,7 @@ Themes of *limbo* or *statelessness*, especially concerning refugees, are heavil
 
 My passage presents the global issue thoroughly. 
 
-Throughout “The Ancient Mariner”, Zable includes large quotes from Amal, occasionally interjecting to emphasise or otherwise provide context. This structure allows Zable to preserve the mood of his interactions with Amal in their transposition from speech to written story. 
+Throughout “The Ancient Mariner”, Zable includes large quotes from Amal, occasionally interjecting to emphasise or otherwise provide context. This structure allows Zable to preserve the tone and mood of his interactions with Amal in their transposition from speech to written story. 
 
 In this passage, this preservation enhances the global issue by invigorating Amal’s story. And in addition, the empathetic mood in this passage allows the audience to contrast their own experience with Amal’s, furthering the global issue in a poignant way. 
 
@@ -48,7 +48,7 @@ Ultimately, the effect of this musical diction and comparison to Umm Khultum, is
 
 The representation of the global issue continues as the passage shifts to Amal’s words. 
 
-In her opening line, line 15, Amal addresses Zable and the reader as ‘My brother’. In doing so, Amal establishes the reader as a brother, which in Islam is less a familial relation than an indication of trust and respect. The effect of this is to further that empathetic mood. 
+In her opening line, line 15, Amal addresses Zable Cand the reader as ‘My brother’. In doing so, Amal establishes the reader as a brother, which in Islam is less a familial relation than an indication of trust and respect. The effect of this is to further that empathetic mood. 
 
 In a use of anaphora on lines 19 to 21, Amal repeats ‘they said’ at the beginning of clauses. The effect of this is to emphasise her final sentence, “They said that Australia is a democratic country”. 
 
@@ -57,8 +57,10 @@ This sentence strongly emphasises the global issue, in that reasons for seeking 
 My passage presents the global issue through its content, especially within Amal’s quotes which are enhanced by Zable’s interjection.
 ### Gallenkuş’
 #### Body of work
-- Uǧur Gallenkuş’ *Parallel Universes of Children*, his book of juxtaposing photomontages from which my photo comes from, explores the global issue.
-- Gallenkuş is a Turkish photomontage creator focusing mainly upon the theme of global inequality and especially refugees. Many of his works feature photos from countries that surround his own, Turkey, in the Greater Middle East. 
+- *Universes*, juxtaposing photomontages GI. 
+- Turkish creator, theme: inequality. Works: surround. 
+- Interview: purpose: empathise. Audience:.
+- Title metaphor: inequal, perceived.
 - In an interview, Gallenkuş revealed his purpose to be to create change by making “people empathise with problems in the world”. Gallenkuş’ audience may be people, especially in Turkey and the Greater Middle East with the power to make change. 
 - The title, *Parallel Universes of Children* is a metaphor that describes the inequalities and two-way perceived inaccessibilities between Global North and Global South, in which Greater Middle Eastern states are over-represented. The foregrounding of children, a vulnerable and protected group in the eyes of society, in the title and more broadly has the effect of enhancing the global issue by providing an element of shock to the audience. 
 - Gallenkuş’ ‘slicing’ of two images together, often with a single part of the image that is continued through the slice allows the audience to compare two contexts as if they were comparing colours of cars or clothing. In his artworks, where the difference between images is not paint but social status, he highlights a stark inequality, and thus the global issue. 
@@ -66,6 +68,24 @@ My passage presents the global issue through its content, especially within Amal
 - ‘Wounded Girl with a Pearl Earring...’ is another artwork featured in the book. The montage is of two images, a wounded Syrian girl receiving treatment at a temporary hospital amidst conflict juxtaposed with a photo of the famous ‘Girl with a Pearl Earring’ painting. 
 - Similar to ‘I See You’, the photos are sliced together on a hard line and faces are lined up. There is equal space given to each image, which may subvert the audience’s societal expectation that the painting is of higher importance, highlighting a global inequality. 
 - Gallenkuş successfully conveys the global issue through his foregrounding of children and juxtaposing imagery. 
+
+Uǧur Gallenkuş’ Parallel Universes of Children, his book of juxtaposing photomontages from which my photo comes from, explores the global issue.
+
+Gallenkuş is a Turkish photomontage creator focusing mainly upon the theme of global inequality and especially refugees. Many of his works feature photos from countries that surround his own, Turkey, in the Greater Middle East.
+
+In an interview, Gallenkuş revealed his purpose to be to create change by making “people empathise with problems in the world”. Gallenkuş’ audience may be people, especially in Turkey and the Greater Middle East with the power to make change.
+
+The title, Parallel Universes of Children is a metaphor that describes the inequalities and two-way perceived inaccessibilities between Global North and Global South, in which Greater Middle Eastern states are over-represented. The foregrounding of children, a vulnerable and protected group in the eyes of society, in the title and more broadly has the effect of enhancing the global issue by providing an element of shock to the audience.
+
+Gallenkuş’ ‘slicing’ of two images together, often with a single part of the image that is continued through the slice allows the audience to compare two contexts as if they were comparing colours of cars or clothing. In his artworks, where the difference between images is not paint but social status, he highlights a stark inequality, and thus the global issue.
+
+This technique is seen in ‘I See You’, a photomontage featuring a stock photo of a crying Burmese girl in a refugee camp, juxtaposed with a stock photo of a girl. In addition to the slice and lining up of faces in the image, the global issue is accentuated by the eye-level framing and staring of the children.
+
+‘Wounded Girl with a Pearl Earring…’ is another artwork featured in the book. The montage is of two images, a wounded Syrian girl receiving treatment at a temporary hospital amidst conflict juxtaposed with a photo of the famous ‘Girl with a Pearl Earring’ painting.
+
+Similar to ‘I See You’, the photos are sliced together on a hard line and faces are lined up. There is equal space given to each image, which may subvert the audience’s societal expectation that the painting is of higher importance, highlighting a global inequality.
+
+Gallenkuş successfully conveys the global issue through his foregrounding of children and juxtaposing imagery.
 #### Artwork
 - ‘Salvation’ represents the global issue through allusion and juxtaposition. 
 - In ‘Salvation...’, as with all the artworks in *Parallel Universes of Children*, Gallenkuş provides contextual detail for the photojournalistic image. In this case, a “child with Dengue fever is holding the doctor’s hand in Jalozai, Pakistan”, a notorious Afghan refugee camp. 

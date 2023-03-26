@@ -68,4 +68,12 @@
     ol {
         @apply list-decimal
     }
+
+    td {
+        @apply p-2 border border-solid border-gray-200
+    }
+
+    th {
+        @apply p-2 border border-solid border-gray-200
+    }
 }
