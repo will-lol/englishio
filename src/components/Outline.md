@@ -10,7 +10,6 @@ My non-literary text is a photomontage taken from Uğur Gallenkuş’ *Parallel 
 #### Body of work
 - **BOW**: 2 stories. Aud: globally minded middle influence. Prpse: realise effects war conflict. Sttng, talks 🧑‍🤝‍🧑 survived—353. ZL: ⬆️husband normalities. 🫧: underscore welfare. Sgnif: “food coffee table” “clean neat”.
 - ☯️: “ageing well-equipped” dictated. Similarly, TAM remarks: CD, cooking, tea; writes: medicine, air food. limbo, statelessness. TAM: “worse death”, implying. ZL: diction, that UN. In ⬆️: ☯️: refugee, present.
-
 In his greater body of work, Arnold Zable has written two short stories with a specific focus on the global issue. 
 
 The first, in which my passage lies, is “The Ancient Mariner” from the collection *Violin Lessons* and the second is “Zahra’s Lullaby” from *A Country Too Far*. The audiences for both stories are globally-minded middle to upper-class voting Australians who possess the ability to influence change. The purpose of Zable’s texts therefore may be to help the audience to realise the effects of war and conflict. Both “The Ancient Mariner” and “Zahra’s Lullaby” are stories set in modern-day Australia where Zable talks to people whom survived SIEV X, a boat carrying 400 asylum seekers that capsized and killed 353 people in their seeking of asylum from the Greater Middle East to Australia. 
@@ -21,8 +20,8 @@ Similarly, “The Ancient Mariner” also explores this contrast for Amal Basry,
 
 Themes of *limbo* or *statelessness*, especially concerning refugees, are heavily explored in both “Zahra’s Lullaby” and “The Ancient Mariner”. In “The Ancient Mariner”, Zable likens “limbo” to a “state worse than death” while simultaneously implying that refugees exist in this state. “Statelessness” is diction that is repeated throughout “Zahra’s Lullaby” that, being used by the United Nations, is a term with official and legal connotations. In emphasising “limbo” and “statelessness”, Zable draws a comparison between the social state of Amal, Faris and Majida whilst they were refugees and their and the audience's present state.
 #### Passage
-- **Passage**, GI.| Large quotes. Structure, preserve tone mood, speech→written.| preservation ⬆️GI: invigorating. +, empathetic: audience ☯️Amal, GI.| Achieve: auditory, diction: 1→13. Amal, Khultum. “incantation” describes.| “tarab”, 11, “enchantment”| 🫧: tone, investment, allowing empathise.
-- GI continue→Amal|Opening, 15, ‘brother’. Establishes. familial relation; trust, respect. 🫧: mood.| Anaphora 19→21, ‘they said’. 🫧: ⬆️final: “Australia democratic”.| ⬆️GI: corruption, authoritarian.| Paragraph, ‘dreams’. Clearly GI: dreams: greater welfare, seeker.| Passage GI: content, quotes ⬆️interjection. 
+- **Passage**, GI.| Quotes. Structure, presrve, speech→writtn.| ⬆️GI: invgrting. +, empthetic: audnce ☯️Amal, GI.| Achieve: dction: 1→13. ☯️Amal, Khultum. “incntation”| “tarab”, 11, “enchantment”| 🫧: tone, investment, empathise.
+- ⏭️GI continue→Amal|15, ‘brother’. familial relation; trust, respect. 🫧: mood.| Anaphora 19→21, ‘they said’. 🫧: ⬆️final: “Australia democratic”.| ⬆️GI: authritarn.| ⏭️Prgrph, ‘dreams’. Clearly GI: dreams: greater welfare, seeker.| My
 
 My passage presents the global issue thoroughly. 
 
@@ -48,7 +47,7 @@ My passage presents the global issue through its content, especially within Amal
 ### Gallenkuş’
 #### Body of work
 - **Universes**, GI: juxtaposing photomontages, theme: inequality|Works: juxtaposes.|Interview: purpose: empathise. Audience:.|Title metaphor: inequal, perceived. Children, vulnerable 🫧: GI shock.|‘slicing’, with, allows car. 
-- In where difference !paint Λ status, thus|is seen ‘ISY’: girl Burmese camp, w/ girl. + slice, continuation, GI: eye-level.|‘WGPE’. Wounded Syrian amidst w/ ‘GPE’.|Similar, sliced, lined. Equal space→subvert, highlight.|Successfully: children, juxtaposing
+- In where difference !paint Λ status, GI| ‘ISY’: girl Burmese camp, w/ girl. + slice continuation, GI: eye-level.|‘WGPE’. Wounded amidst w/ ‘GPE’.|Similar, sliced, lined. Equal space→subvert, highlight.|Successfully: children, juxtaposing
 
 In Parallel Universes of Children by Uǧur Gallenkuş’, Gallenkuş' explores the global issue through his juxtaposing photomontages. 
 

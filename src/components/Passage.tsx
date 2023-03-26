@@ -23,11 +23,15 @@ export default function Passage(props: props) {
               <Index each={paragraph()}>
                 {(line, i) => {
                   counter++;
-                  return (
-                    <>
-                      {padNumber(counter, 2)} <br />
-                    </>
-                  );
+                  if (counter%5 == 0) {
+                    return (
+                      <>
+                        {padNumber(counter, 2)} <br />
+                      </>
+                    );
+                  } else {
+                    return <br/>
+                  }
                 }}
               </Index>
             </p>
