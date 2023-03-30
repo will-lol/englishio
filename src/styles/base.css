@@ -30,7 +30,7 @@
 @layer base {
     @page {
         size: auto;
-        margin: 25mm 25mm 25mm 25mm;
+        margin: 18mm 18mm 18mm 18mm;
     }
     
     html {
@@ -50,7 +50,7 @@
     }
 
     p {
-        @apply mb-5 leading-loose text-justify
+        @apply mb-3 leading-loose text-justify
     }
 
     li {

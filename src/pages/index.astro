@@ -3,15 +3,14 @@ import Layout from "../layouts/Layout.astro";
 import Passage from "../components/Passage";
 import Image from "../components/Image";
 import Pagebreak from "../components/Pagebreak";
-import Script from "../components/Script.md";
-import Outline from "../components/Outline.md";
+import Outline from "../components/Outline.mdx";
 import GIFoI from "../components/GIFoI";
+import Points from "../components/Points.md";
 ---
 <Layout title="English IO">
   <div contenteditable>
-    <main class="max-w-xl print:max-w-full">
+    <main class="max-w-xl print:max-w-full flex flex-col justify-center">
       <GIFoI/>
-      <h2>Passage</h2>
       <Passage
         paragraphs={[
           [
@@ -49,8 +48,10 @@ import GIFoI from "../components/GIFoI";
         ]}
       >
         <div class="text-gray-600">
-          Pages 164—165 of Arnold Zable’s “The Ancient Mariner” from the collection
-          <em>Violin Lessons</em> <br> published in 2011.
+          Pages 164—165 of Arnold Zable’s “The Ancient Mariner” from:
+          <p>
+            Zable, A 2012, <i>Violin lessons</i>, Text Publishing, Melbourne.
+          </p>
         </div>
       </Passage>
       <Pagebreak/>
@@ -58,14 +59,20 @@ import GIFoI from "../components/GIFoI";
       <h2>Image</h2>
       <Image imgSrc="images/non-literary.png" imgAlt="A child with Dengue fever is holder the doctor's hand in Jalozai, Pakistan 2012.">
         <div class="text-gray-600">
-          “Salvation...” from <em>Parallel Universies of Children</em> by Uğur
-          Gallenkuş in 2020.
+          “Salvation...” #29 from:
+          <p>
+            <i>Parallel Universes of Children</i> 2020, First edition., Life IS Publishing LLC, Los Angeles.
+          </p>
         </div>
       </Image>
       <Pagebreak/>
       <h2>Oral Outline</h2>
       <Outline/>
       <Pagebreak/>
+      <div class="mb-5">
+        <GIFoI/>
+      </div>
+      <Points/>
     </main>
   </div>
 </Layout>
